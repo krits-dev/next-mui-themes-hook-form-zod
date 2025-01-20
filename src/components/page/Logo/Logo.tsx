@@ -9,10 +9,7 @@ function Logo() {
     <>
       <Box
         sx={{
-          display: {
-            xs: 'none',
-            md: 'block',
-          },
+          display: { xs: 'none', md: 'block' },
           width: '238px',
           height: '44px',
         }}
@@ -23,10 +20,7 @@ function Logo() {
       </Box>
       <Box
         sx={{
-          display: {
-            xs: 'block',
-            md: 'none',
-          },
+          display: { xs: 'block', md: 'none' },
           width: '146px',
           height: '32px',
         }}

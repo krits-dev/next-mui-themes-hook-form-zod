@@ -37,11 +37,7 @@ function Footer() {
           <Box
             component='br'
             sx={{
-              display: {
-                xs: 'none',
-                lg: 'block',
-                xl: 'none',
-              },
+              display: { xs: 'none', lg: 'block', xl: 'none' },
             }}
           />{' '}
           Wrote us{' '}

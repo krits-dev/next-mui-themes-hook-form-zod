@@ -74,7 +74,7 @@ function AuthLayout({
           sx={{ position: 'relative' }}
         >
           {LoginPage.text.row1}
-          <br />
+          <Box component='br' />
           {LoginPage.text.row2}
         </Text>
       </Box>
